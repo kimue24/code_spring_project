@@ -1,4 +1,4 @@
-package kr.co.min;
+package org.zerock.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -37,4 +37,3 @@ public class HomeController {
 	}
 	
 }
- 
